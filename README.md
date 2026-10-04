@@ -241,4 +241,4 @@ This repository serves as the official landing page for GOM Player. The software
 **Get the most recent version of GOM Player today!**
 
 ---
-**Last updated:** 2026-10-04 04:56:13 UTC
+**Last updated:** 2026-10-04 11:01:54 UTC
